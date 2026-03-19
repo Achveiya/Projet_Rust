@@ -1,0 +1,7 @@
+[package]
+name = "projet_Rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = "0.13" # La version stable actuelle
